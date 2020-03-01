@@ -1,4 +1,3 @@
-#lpr-github
-A realtime and automated licenseplate recognition and built using YOLOv3
-
-Darknet is to be built seperately for the scripts to be functional
+# Test
+This is a test
+Just testing to see if I can work with github for my project.
